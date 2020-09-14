@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "e2f1a23a"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_resource_spawner_v2.smx"
+  }
+}

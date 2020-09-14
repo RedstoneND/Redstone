@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "b53dad1f"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_com_abilities.smx"
+  }
+}

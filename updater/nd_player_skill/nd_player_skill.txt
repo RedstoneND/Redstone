@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "da1ed654"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_player_skill.smx"
+  }
+}

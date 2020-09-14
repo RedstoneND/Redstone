@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "5ec3979f"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_spectators.smx"
+  }
+}

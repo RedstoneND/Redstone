@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "4b260956"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_gameme_extras.smx"
+  }
+}

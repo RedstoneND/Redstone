@@ -1,0 +1,11 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "658de1aa"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_team_shuffle.smx"
+    "Plugin" "Path_SM/translations/nd_team_shuffle.phrases.txt"
+  }
+}

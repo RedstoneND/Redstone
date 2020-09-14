@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "280ec258"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_entity_engine.smx"
+  }
+}

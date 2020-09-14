@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "20a06708"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_player_boost.smx"
+  }
+}

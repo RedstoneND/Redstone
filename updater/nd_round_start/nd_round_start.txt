@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "e5f5c1ef"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_round_start.smx"
+  }
+}

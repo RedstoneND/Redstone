@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "57dae16e"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_resource_trickle.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "5c9a3844"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_afk_marker.smx"
+  }
+}

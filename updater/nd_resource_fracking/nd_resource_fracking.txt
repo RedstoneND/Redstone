@@ -1,0 +1,11 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "83c7d0f2"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_resource_fracking.smx"
+    "Plugin" "Path_SM/translations/nd_resource_fracking.phrases.txt"
+  }
+}

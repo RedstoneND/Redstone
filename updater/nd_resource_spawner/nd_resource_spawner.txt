@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "adb2c7ae"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_resource_spawner.smx"
+  }
+}

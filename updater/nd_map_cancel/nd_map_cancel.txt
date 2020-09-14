@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "c3d4274d"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_map_cancel.smx"
+  }
+}

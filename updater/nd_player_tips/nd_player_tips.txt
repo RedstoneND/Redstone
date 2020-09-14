@@ -1,0 +1,12 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "68dafc4f"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_player_tips.smx"
+    "Plugin" "Path_SM/translations/nd_player_tips.phrases.txt"
+    "Plugin" "Path_SM/translations/ru/nd_player_tips.phrases.txt"
+  }
+}
